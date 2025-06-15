@@ -1,1 +1,3 @@
-# Программа для подсчёта слов и символов в тексте.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
