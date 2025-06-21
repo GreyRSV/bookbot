@@ -1,2 +1,6 @@
 # Environment
 book_env
+
+# Directory
+/books
+__pycache__
